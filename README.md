@@ -29,8 +29,8 @@ Build classification machine Learning model to classify the cancer into two clas
 7. Splitting the dataset into train and test
 8. Feature Scalling
 9. Building the model
-     a. Logistics Regression
-     b. Random Forest
+     a) Logistics Regression
+     b) Random Forest
 10. Cross validations for both models
 11. Randomized search to find the best parameters
 12. Final Model using best parameters
